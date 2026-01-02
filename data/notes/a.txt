@@ -1,0 +1,2 @@
+These notes explain Python decorators, their use cases,
+and how they help with code reuse and readability.
